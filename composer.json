@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/CreateConfigurableProduct",
+    "name": "OpenMageModuleFostering\/CreateConfigurableProduct",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Creating Configurable Product",
     "authors": [
-    {
-        "name": "Rajesh",
-        "email": "rajeshn@thylaksoft.com"
-    }
-],
+        {
+            "name": "Rajesh",
+            "email": "rajeshn@thylaksoft.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
